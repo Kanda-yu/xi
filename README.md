@@ -1,15 +1,13 @@
 # xi
 #index.html
-<html>
+ <html>
     <head>
         <title>Yves Rocher</title>
         <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
     <h1 style="color:darkgreen;font-size:90px;text-align:center">Yves Rocher</h1>
-    
-    <h2 style="text-align:center">Интернет-магазин натуральной косметики и парфюмерии из Франции
-    </h2>
+    <h2 style="text-align:center">Интернет-магазин натуральной косметики и парфюмерии из Франции</h2>
     </body>
 </html>
  <html>

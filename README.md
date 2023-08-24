@@ -8,8 +8,8 @@
     <body>
     <h1 style="color:darkgreen;font-size:90px;text-align:center">Yves Rocher</h1>
     
-    <h2 style="text-align:center">Интернет-магазин натуральной косметики и парфюмерии из Франции</h2>
-    <h4>Компания по производству французкой косметики и средствами ухода за лицом</h4>  
+    <h2 style="text-align:center">Интернет-магазин натуральной косметики и парфюмерии из Франции
+    </h2>
     </body>
 </html>
  <html>
